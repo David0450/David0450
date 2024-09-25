@@ -12,4 +12,4 @@ Soy David Peral, estudiante de Desarrollo de Aplicaciones Web **(DAW)** y actual
 He recopilado mis repositorios con el contenido de cada asignatura en un fichero README. Si quieres echarle un vistazo lo tienes [aquí](https://github.com/David0450/DAW).
 
 ## Proyectos
-Actualmente estoy desarrollando poco a poco un proyecto ficticio y de prueba siguiendo las directrices de la empresa asignada en mi FPDual, BCS. Si te interesa puedes verlo [aquí](https://github.com/David0450/Proyecto)
+Actualmente estoy desarrollando poco a poco un proyecto ficticio y de prueba siguiendo las directrices de la empresa asignada en mi FPDual, BCS. Si te interesa puedes verlo [aquí](https://github.com/David0450/Proyecto).
