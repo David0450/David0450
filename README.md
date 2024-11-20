@@ -13,3 +13,4 @@ He recopilado mis repositorios con el contenido de cada asignatura en un fichero
 
 ## Proyectos
 Actualmente estoy desarrollando poco a poco un proyecto ficticio y de prueba siguiendo las directrices de la empresa asignada en mi FPDual, BCS. Si te interesa puedes verlo [aquí](https://github.com/David0450/Proyecto).
+También he realizado un simple juego de Buscaminas con JavaScript para un proyecto de Desarrollo de Aplicaciones Web en Entorno Cliente, puedes verlo [aquí](https://github.com/David0450/buscaminas)
