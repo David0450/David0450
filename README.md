@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy David Peral, estudiante de Desarrollo de Aplicaciones Web **(DAW)** y actualmente terminando el primer año del ciclo.
+Soy David Peral, estudiante de Desarrollo de Aplicaciones Web **(DAW)** y actualmente cursando el segundo año del ciclo.
 
 ## Sobre mí
 - Empecé a programar en Python 🐍 y rápidamente me enganchó. Actualmente estoy aprendiendo JavaScript 🟨 y PHP 🐘 y he dejado Python un poco atrás, aunque me gustaría retomarlo.
