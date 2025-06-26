@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋</h1>
 
 Soy David Peral, Técnico Superior de Desarrollo de Aplicaciones Web **(DAW)**.
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Sobre mí
 - Empecé a programar en Python 🐍 y rápidamente me enganchó. Actualmente estoy aprendiendo JavaScript 🟨 y PHP 🐘 y he dejado Python un poco atrás, aunque me gustaría retomarlo.
