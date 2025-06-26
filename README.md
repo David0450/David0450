@@ -10,7 +10,8 @@ Soy David Peral, Técnico Superior de Desarrollo de Aplicaciones Web **(DAW)**.
 - Cuando termine el CFGS pienso seguir estudiando, ya sea Desarrollo de Aplicaciones Multiplataforma, Ingeniería de Software 🧑‍💻 o Ciberseguridad 🕵️‍♂️.
 - Con este ciclo aspiro a poder ser capaz de llevar a cabo mis propios proyectos 💪 más que trabajar full stack en proyectos de empresas que no me interesan 👎.
 
-## Proyectos
-Actualmente estoy desarrollando poco a poco un proyecto ficticio y de prueba siguiendo las directrices de la empresa asignada en mi FPDual, BCS. Si te interesa puedes verlo [aquí](https://github.com/David0450/Proyecto).  
-También he realizado un simple juego de Buscaminas con JavaScript para un proyecto de Desarrollo de Aplicaciones Web en Entorno Cliente, puedes verlo [aquí](https://github.com/David0450/buscaminas).
+## Tecnologías
 
+
+## ¿Qué hago actualmente?
+A la espera de entrar en la universidad, estoy aprendiendo NextJS, React y PostgreSQL. También me he interesado por el diseño 3D y C#, que he aplicado en algún proyecto pequeño.
