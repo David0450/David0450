@@ -1,7 +1,5 @@
 ![image info](./header.png)
 Soy David Peral, Técnico Superior de Desarrollo de Aplicaciones Web **(DAW)**.
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## Sobre mí
 - Empecé a programar en Python 🐍 y rápidamente me enganchó. Actualmente estoy aprendiendo JavaScript 🟨 y PHP 🐘 y he dejado Python un poco atrás, aunque me gustaría retomarlo.
@@ -19,6 +17,7 @@ A la espera de entrar en la universidad, he querido ampliar más mis conocimient
     <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,postgres,blender,unity" />
   </a>
 </p>
+
 * NextJS
 * React
 * Tailwind
