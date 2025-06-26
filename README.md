@@ -1,5 +1,5 @@
-<h1 align="center">Hola, soy David</h1>
-
+<h1 align="center">Hola 👋</h1>
+***
 Soy David Peral, Técnico Superior de Desarrollo de Aplicaciones Web **(DAW)**.
 
 ## Sobre mí
