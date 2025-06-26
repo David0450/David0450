@@ -10,7 +10,13 @@ Soy David Peral, Técnico Superior de Desarrollo de Aplicaciones Web **(DAW)**.
 - Con este ciclo aspiro a poder ser capaz de llevar a cabo mis propios proyectos 💪 más que trabajar full stack en proyectos de empresas que no me interesan 👎.
 
 ## Tecnologías
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,php,mysql,github,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,php,mysql,github)](https://skillicons.dev)
 
 ## ¿Qué hago actualmente?
-A la espera de entrar en la universidad, estoy aprendiendo NextJS, React y PostgreSQL. También me he interesado por el diseño 3D y C#, que he aplicado en algún proyecto pequeño.
+A la espera de entrar en la universidad, he querido ampliar más mis conocimientos de desarrollo web y aprender un poco de desarrollo de videojuegos y diseño 3D, es por eso que estoy aprendiendo:
+* NextJS [![NextJS](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+* React [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+* Tailwind [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+* PostgreSQL [![PostgreSQL](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+* Blender [![Blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+* Unity [![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
